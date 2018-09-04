@@ -1,6 +1,5 @@
 package gcd;
 
-import java.util.ArrayList;
 import java.io.IOException;
 import com.gargoylesoftware.htmlunit.FailingHttpStatusCodeException;
 import com.gargoylesoftware.htmlunit.WebClient;
